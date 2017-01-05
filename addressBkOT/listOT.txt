@@ -1,0 +1,6 @@
+#Deliberate space after each contact line
+#Contact List
+Name: Alice Lu% Phone: 123-456-7890% Email: alice@nyu.edu% Birthday: 12/34/56% Address: 123 4St., Phila, PA 12345% Relation: Me% 
+Name: Alice% Phone: 999% Email: 123% Birthday: 123% Address: 132% Relation: 123% 
+Name: Someone% Phone: 123% Email: 123% Birthday: 13% Address: 123% Relation: 123% 
+Name: Shawn Mendes% Phone: 123-345-6789% Email: shawn@mendes.com% Birthday: 12/34/56% Address: 123 4St. etc% Relation: Nobody% 
